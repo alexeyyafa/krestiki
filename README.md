@@ -1,0 +1,2 @@
+# krestiki
+ruby krestiki
